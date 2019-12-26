@@ -1,0 +1,9 @@
+username=neo4j
+password=moied3dmoied3d
+
+please create neo4j database with these information.
+
+Requirements:
+Node js.
+Npm install(locally).
+
